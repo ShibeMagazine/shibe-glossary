@@ -50,4 +50,4 @@ The Shibe Glossary is released under the [MIT License](LICENSE.md). Feel free to
 Acknowledgments
 ---------------
 
-This repository was inspired by the [Bitcoin Glossary](https://github.com/nyusternblockchain/bitcoin-glossary) repository. Thank you to the creators of that repository for providing a great template for a cryptocurrency glossary.
+This repository was inspired by many crypto glossaries we've seen in the past.
