@@ -25,6 +25,7 @@ The Shibe Glossary contains a list of terms commonly used in the Dogecoin commun
 
 You can also add your own definitions or suggest changes to existing definitions by creating a pull request. See the [Contributing](#contributing) section below for more information.
 
+
 Contributing
 ------------
 
