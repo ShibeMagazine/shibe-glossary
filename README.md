@@ -1,6 +1,4 @@
 Shibe Glossary
-
-Shibe Glossary
 ==============
 
 Shibe Glossary is a repository that provides a simple and easy-to-understand glossary of terms related to Dogecoin. If you're new to Dogecoin or just looking to brush up on your knowledge of the terminology, this is the perfect resource for you.
