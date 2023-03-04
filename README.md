@@ -11,6 +11,13 @@ Table of Contents
 *   [Contributing](#contributing)
 *   [License](#license)
 
+Directory Layout
+----------------
+.
+├── glossary.md
+├── LICENSE
+└── README.md
+
 Installation
 ------------
 
@@ -21,7 +28,7 @@ To use the Shibe Glossary, simply clone this repository to your local machine:
 Usage
 -----
 
-The Shibe Glossary contains a list of terms commonly used in the Dogecoin community, along with brief definitions and examples of how they are used. To access the glossary, simply open the `GLOSSARY.md` file in your preferred text editor or Markdown viewer.
+The Shibe Glossary contains a list of terms commonly used in the Dogecoin community, along with brief definitions and examples of how they are used. To access the glossary, simply open the `glossary.md` file in your preferred text editor or Markdown viewer.
 
 You can also add your own definitions or suggest changes to existing definitions by creating a pull request. See the [Contributing](#contributing) section below for more information.
 
@@ -35,7 +42,7 @@ To create a pull request:
 
 1.  Fork this repository
 2.  Create a new branch for your changes
-3.  Make your changes to the `GLOSSARY.md` file
+3.  Make your changes to the `glossary.md` file
 4.  Commit your changes and push your branch to your fork
 5.  Create a pull request from your fork to this repository
 
@@ -49,6 +56,4 @@ The Shibe Glossary is released under the [Creative Commons Zero v1.0 Universal L
 Acknowledgments
 ---------------
 
-We would like to acknowledge the many cryptocurrency glossaries that came before ours and inspired us to create this repository. We would also like to thank the Shibes who have contributed to this project and continue to maintain it.
-
-In addition, we would like to extend a special thanks to Github for providing us with a platform to host our repository and collaborate with others. We would also like to thank OpenAI for ChatGPT, which provided us with general language samples that helped us create our glossary, as well as the text you're reading right now. Without these resources, our project wouldn't have come together so smoothly.
+We would like to acknowledge the many cryptocurrency glossaries that came before ours and inspired us to create this repository.
