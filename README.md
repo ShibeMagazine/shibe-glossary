@@ -52,7 +52,7 @@ Before creating a pull request, please make sure your changes are consistent wit
 License
 -------
 
-The Shibe Glossary is released under the [Creative Commons Zero v1.0 Universal License](LICENSE.md). Feel free to use and share this repository as you see fit.
+The Shibe Glossary is released under the [MIT License](LICENSE.md). Feel free to use and share this repository as you see fit.
 
 Acknowledgments
 ---------------
