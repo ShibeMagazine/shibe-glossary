@@ -6,6 +6,7 @@ Shibe Glossary is a repository that provides a simple and easy-to-understand glo
 Table of Contents
 -----------------
 
+*   [Directory Layout](#directory layout)
 *   [Installation](#installation)
 *   [Usage](#usage)
 *   [Contributing](#contributing)
