@@ -13,10 +13,10 @@ Table of Contents
 
 Directory Layout
 ----------------
-.
-├── glossary.md
-├── LICENSE
-└── README.md
+    .
+    ├── glossary.md
+    ├── LICENSE
+    └── README.md
 
 Installation
 ------------
