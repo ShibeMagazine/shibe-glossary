@@ -43,9 +43,11 @@ Before creating a pull request, please make sure your changes are consistent wit
 License
 -------
 
-The Shibe Glossary is released under the [MIT License](LICENSE.md). Feel free to use and share this repository as you see fit.
+The Shibe Glossary is released under the [Creative Commons Zero v1.0 Universal License](LICENSE.md). Feel free to use and share this repository as you see fit.
 
 Acknowledgments
 ---------------
 
-This repository was inspired by many crypto glossaries we've seen in the past.
+We would like to acknowledge the many cryptocurrency glossaries that came before ours and inspired us to create this repository. We would also like to thank the Shibes who have contributed to this project and continue to maintain it.
+
+We would also like to extend a special thanks to Github for hosting our repository and providing us with a platform to share our work with the world. Additionally, we would like to thank OpenAI for ChatGPT, which provided us with general language samples that helped us create our glossary, as well as the text you're reading right now. Without these resources, our project wouldn't have come together so smoothly.
