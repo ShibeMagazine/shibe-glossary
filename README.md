@@ -53,9 +53,4 @@ Before creating a pull request, please make sure your changes are consistent wit
 License
 -------
 
-The Shibe Glossary is released under the [MIT](LICENSE.md). Feel free to use and share this repository as you see fit.
-
-Acknowledgments
----------------
-
-We'd like to thank the wonderful Shibes who helped with this project.
+The Shibe Glossary is released under an [MIT](LICENSE.md) license.
