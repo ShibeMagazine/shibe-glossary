@@ -31,7 +31,7 @@ Usage
 
 The Shibe Glossary contains a list of terms commonly used in the Dogecoin community, along with brief definitions and examples of how they are used. To access the glossary, simply open the `glossary.md` file in your preferred text editor or Markdown viewer -or- you may browse our latest version at www.github.com/shibemagazine/shibe-glossary.
 
-We have arranged the glossary in alphabetical order, with H2 headers for each letter (section), H4 headers for each word, and default text for each definition. The glossary is in Markdown (.md) format, but if you need to convert it to another language or format, you can use https://codebeautify.org/ to find suitable formatting or conversion tools.
+We have arranged the glossary in alphabetical order, with H2 headings for each section, H4 headings for each word, and normal text for each definition. The glossary is in Markdown (.md) format, but if you need to convert it to another language or format  https://codebeautify.org/ may prove useful to you.
 
 You can also add your own definitions or suggest changes to existing definitions by creating a pull request. See the [Contributing](#contributing) section below for more information.
 
@@ -53,7 +53,7 @@ Before creating a pull request, please make sure your changes are consistent wit
 License
 -------
 
-The Shibe Glossary is released under the [Creative Commons Zero](LICENSE.md). Feel free to use and share this repository as you see fit.
+The Shibe Glossary is released under the [MIT](LICENSE.md). Feel free to use and share this repository as you see fit.
 
 Acknowledgments
 ---------------
