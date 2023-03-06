@@ -24,7 +24,7 @@ D
 
 <!--E Section-->
 E 
-
+-
 <!--This is a hidden note-->
 ### Example <!--This is an H3 heading--> 
 a thing that serves as a pattern to be imitated.<!--This is normal text-->
