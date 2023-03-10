@@ -1,3 +1,10 @@
+<!--This document is designed for limited fuctionality to reduce complexity for people unfamiliar with open-source development-->
+
+<!--Future development of this file may involve expanding to new files within the `shibemagazine/shibe-glossary` repository on Github. as this file should remain barrier-free-->
+
+<!-- Ideas for future development:
+    - `./examples/pretty-glossary.html` to make this thing shine 
+    - `./tools/search-glossary.json` to add search fuctionality-->
 
 Shibe Glossary
 ==============
@@ -17,11 +24,14 @@ B
 <!--C Section-->
 C
 -
+### Cryptocurrency
+A digital or virtual currency that uses cryptography for security and operates independently of a central bank.
 
 <!--D Section-->
 D
 -
-
+### Dogecoin 
+Dogecoin is a digital currency, created in 2013 by Billy Markus and Jackson Palmer. It is based on the popular "Doge" internet meme and has become known for its lighthearted and humorous approach to cryptocurrency.
 <!--E Section-->
 E 
 -
@@ -59,6 +69,9 @@ L
 <!--M Section-->
 M
 -
+
+### Mining
+The process of validating transations and appending them to a blockchain by completing complex computational tasks.
 
 <!--N Section-->
 N
