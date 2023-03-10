@@ -75,6 +75,9 @@ The process of validating transations and appending them to a blockchain by comp
 
 <!--N Section-->
 N
+
+### Node
+A copy of the blockchain ledger which contributes to transaction validation and holds legitimate transactions.
 -
 
 <!--O Section-->
